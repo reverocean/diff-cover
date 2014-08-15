@@ -61,6 +61,7 @@ class GitDiffTool(object):
         """
             haha
         """
+        print("Hava")
         return self._execute(['git', 'diff', '--cached', '--no-ext-diff'])
 
     def _execute(self, command):

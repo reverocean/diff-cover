@@ -16,7 +16,7 @@
     <ignored path=".idea/testrunner.xml" />
     <ignored path=".idea/encodings.xml" />
     <file path="/Dummy.txt" changelist="e0555f7f-d6d3-4c22-a75c-58101aa2034a" time="1408078035773" ignored="false" />
-    <file path="/git_diff.py" changelist="e0555f7f-d6d3-4c22-a75c-58101aa2034a" time="1408079726009" ignored="false" />
+    <file path="/git_diff.py" changelist="e0555f7f-d6d3-4c22-a75c-58101aa2034a" time="1408079805555" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <file leaf-file-name="git_diff.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/diff_cover/git_diff.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="16" selection-start="1511" selection-end="1511" vertical-scroll-proportion="0.7565789">
+            <state line="63" column="19" selection-start="1543" selection-end="1543" vertical-scroll-proportion="0.82236844">
               <folding />
             </state>
           </provider>
@@ -428,7 +428,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/diff_cover/git_diff.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="16" selection-start="1511" selection-end="1511" vertical-scroll-proportion="0.7565789">
+        <state line="63" column="19" selection-start="1543" selection-end="1543" vertical-scroll-proportion="0.82236844">
           <folding />
         </state>
       </provider>
