@@ -1,0 +1,11 @@
+Jinja2>=2.7.1
+lazy>=1.1
+six>=1.6.1
+pygments==1.6
+jinja2_pluralize
+mock
+nose
+coverage
+pep8
+pyflakes
+pylint

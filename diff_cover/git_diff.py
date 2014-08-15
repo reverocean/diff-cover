@@ -57,6 +57,10 @@ class GitDiffTool(object):
         Raises a `GitDiffError` if `git diff` outputs anything
         to stderr.
         """
+
+        """
+            haha
+        """
         return self._execute(['git', 'diff', '--cached', '--no-ext-diff'])
 
     def _execute(self, command):
